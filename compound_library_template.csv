@@ -1,0 +1,4 @@
+CompoundName,Mechanism,Batch,Supplier,PlateID
+Taxol,Stabilizer,B001,Sigma,1
+Doxorubicin,Intercalator,B002,Sigma,2
+DMSO,Control,B999,Internal,3
